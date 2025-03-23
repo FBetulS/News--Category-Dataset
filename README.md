@@ -3,6 +3,9 @@
 
 Bu proje, haber metinlerini otomatik olarak sınıflandırmak için makine öğrenimi tekniklerini kullanmaktadır. Farklı haber kategorilerinin (örneğin, iş, eğlence, sağlık) belirlenmesi amacıyla metin verisi işlenmekte ve derin öğrenme modellemesi yapılmaktadır.
 
+⚠️ Not
+3D grafiklerim ve görselleştirmelerim maalesef gözükmüyor. Bu durum, bazı tarayıcı veya platform uyumsuzluklarından kaynaklanabilir.
+
 ## 🔗 Kaggle Veri Seti
 [Haber Kategorisi Veri Seti](https://www.kaggle.com/datasets/rmisra/news-category-dataset)
 
